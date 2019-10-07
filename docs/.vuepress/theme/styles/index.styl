@@ -1,0 +1,60 @@
+@import 'normalize';
+@import 'typography';
+@import 'palette';
+
+:root {
+  --primary-blue: primary-blue
+  --primary-blue-dark: primary-blue-dark
+  --primary-grey: primary-grey
+  --primary-grey-dark: primary-grey-dark
+}
+
+body {
+  font-family: font-family-sans
+  background-color: #fff;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  font-family: 'Unify Sans';
+  font-weight: bold;
+  font-size: 40px;
+}
+
+h1:after {
+  background: var(--primary-blue);
+  content: '';
+  display: block;
+  height: 9px;
+  margin: 20px 0;
+  width: 45px;
+}
+
+h2 {
+  font-family: 'Unify Sans';
+  background-repeat: no-repeat;
+  background-position: 0;
+  font-size: 20px;
+  font-weight: 900;
+  margin: 0 0 20px;
+  padding: 0;
+}
+
+h2:before {
+  content: '';
+  display: inline-block;
+  width: 24px;
+  background: #009bff;
+  height: 12px;
+  margin-right: 14px;
+  -webkit-transform: translateY(-1px);
+  transform: translateY(-1px);
+}
+
+.responsive-content-block {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 10px;
+}

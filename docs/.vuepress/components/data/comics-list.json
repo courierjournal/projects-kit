@@ -1,0 +1,772 @@
+[
+  {
+    "id": "",
+    "title": "9 to 5",
+    "slug": "9to5",
+    "slugShort": "9_to_5",
+    "size": 385,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "The Amazing Spiderman",
+    "slug": "TheAmazingSpiderman",
+    "slugShort": "Spiderman",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Animal Crackers",
+    "slug": "AnimalCrackers",
+    "slugShort": "Animal_Crackers",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Arctic Circle",
+    "slug": "ArcticCircle",
+    "slugShort": "Arctic",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Baby Blues",
+    "slug": "BabyBlues",
+    "slugShort": "Baby_Blues",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Barney Google & Snuffy Smith",
+    "slug": "BarneyGoogleandSnuffySmith",
+    "slugShort": "Barney_Google",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Beetle Bailey",
+    "slug": "BeetleBailey",
+    "slugShort": "Beetle_Bailey",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Between Friends",
+    "slug": "BetweenFriends",
+    "slugShort": "Between_Friends",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Bizarro",
+    "slug": "Bizarro",
+    "slugShort": "Bizarro_p",
+    "size": 385,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Bliss",
+    "slug": "Bliss",
+    "slugShort": "Bliss",
+    "size": 385,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Blondie",
+    "slug": "Blondie",
+    "slugShort": "Blondie",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Bottom Liners",
+    "slug": "BottomLiners",
+    "slugShort": "Bottom_Liners",
+    "size": 385,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Bound And Gagged",
+    "slug": "BoundAndGagged",
+    "slugShort": "Bound_Gagged",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Brewster Rocket",
+    "slug": "BrewsterRocket",
+    "slugShort": "Brewster",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "The Brilliant Mind Of Edison Lee",
+    "slug": "TheBrilliantMindOfEdisonLee",
+    "slugShort": "Edison",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Broom Hilda",
+    "slug": "BroomHilda",
+    "slugShort": "Broom_Hilda",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Buckles",
+    "slug": "Buckles",
+    "slugShort": "Buckles",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Carpe Diem",
+    "slug": "CarpeDiem",
+    "slugShort": "Carpe",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Crankshaft",
+    "slug": "Crankshaft",
+    "slugShort": "Crankshaft",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Crock",
+    "slug": "Crock",
+    "slugShort": "Crock",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Curtis",
+    "slug": "Curtis",
+    "slugShort": "Curtis",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Daddy Daze",
+    "slug": "DaddyDaze",
+    "slugShort": "Daddy_Daze",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Dennis The Menace",
+    "slug": "DennisTheMenace",
+    "slugShort": "Dennis_The_Menace",
+    "size": 385,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Dick Tracy",
+    "slug": "DickTracy",
+    "slugShort": "Dick_Tracy",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Dustin",
+    "slug": "Dustin",
+    "slugShort": "Dustin",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "The Family Circus",
+    "slug": "TheFamilyCircus",
+    "slugShort": "Family_Circus",
+    "size": 385,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Flash Gordon",
+    "slug": "FlashGordon",
+    "slugShort": "Flash_hs",
+    "size": 760,
+    "sundayOnly": true,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Funky Winkerbean",
+    "slug": "FunkyWinkerbean",
+    "slugShort": "Funky_Winkerbean",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Gasoline Alley",
+    "slug": "GasolineAlley",
+    "slugShort": "Gasoline_Alley",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Gil Thorpe",
+    "slug": "GilThorpe",
+    "slugShort": "Gil_Thorp",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Hägar The Horrible",
+    "slug": "HagarTheHorrible",
+    "slugShort": "Hagar_The_Horrible",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Hi And Lois",
+    "slug": "HiAndLois",
+    "slugShort": "Hi_and_Lois",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Intelligent Life",
+    "slug": "IntelligentLife",
+    "slugShort": "Intelligent",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Judge Parker",
+    "slug": "JudgeParker",
+    "slugShort": "Judge_Parker",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "The Katzenjammer Kids",
+    "slug": "TheKatzenjammerKids",
+    "slugShort": "Katzenjammer_Kids_ntb",
+    "size": 760,
+    "sundayOnly": true,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "The Lockhorns",
+    "slug": "TheLockhorns",
+    "slugShort": "Lockhorns",
+    "size": 385,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Macanudo",
+    "slug": "Macanudo",
+    "slugShort": "Macanudo",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Mallard Fillmore",
+    "slug": "MallardFillmore",
+    "slugShort": "Mallard_Fillmore",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Mandrake The Magician",
+    "slug": "MandrakeTheMagician",
+    "slugShort": "Mandrake",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Mark Trail",
+    "slug": "MarkTrail",
+    "slugShort": "Mark_Trail",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Marvin",
+    "slug": "Marvin",
+    "slugShort": "Marvin",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Mary Worth",
+    "slug": "MaryWorth",
+    "slugShort": "Mary_Worth",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Moose And Molly",
+    "slug": "MooseAndMolly",
+    "slugShort": "Moose",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Mother Goose & Grimm",
+    "slug": "MotherGooseGrimm",
+    "slugShort": "Mgoose",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Mutts",
+    "slug": "Mutts",
+    "slugShort": "Mutts",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "On The Fastrack",
+    "slug": "OnTheFastrack",
+    "slugShort": "Fast_Track",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "The Pajama Diaries",
+    "slug": "ThePajamaDiaries",
+    "slugShort": "Pajama",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Pardon My Planet",
+    "slug": "PardonMyPlanet",
+    "slugShort": "Pardon_My_Planet_p",
+    "size": 385,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "The Phantom",
+    "slug": "ThePhantom",
+    "slugShort": "Phantom",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Pluggers",
+    "slug": "Pluggers",
+    "slugShort": "Pluggers",
+    "size": 385,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Popeye",
+    "slug": "Popeye",
+    "slugShort": "Popeye",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Prince Valiant",
+    "slug": "PrinceValiant",
+    "slugShort": "Prince_Valiant_hs",
+    "size": 760,
+    "sundayOnly": true,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Pros Cons",
+    "slug": "ProsCons",
+    "slugShort": "Pros_and_Cons",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Retail",
+    "slug": "Retail",
+    "slugShort": "Retail",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Rex Morgan M. D.",
+    "slug": "RexMorganM.D.",
+    "slugShort": "Rex_Morgan",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Rhymes With Orange",
+    "slug": "RhymesWithOrange",
+    "slugShort": "Rhymes_with_Orange",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Safe Havens",
+    "slug": "SafeHavens",
+    "slugShort": "Safe_Havens",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Sally Forth",
+    "slug": "SallyForth",
+    "slugShort": "Sally_Forth",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Sam And Silo",
+    "slug": "SamAndSilo",
+    "slugShort": "Sam",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Shermans Lagoon",
+    "slug": "ShermansLagoon",
+    "slugShort": "Shermans_Lagoon",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Shoe",
+    "slug": "Shoe",
+    "slugShort": "Shoe",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Six Chix",
+    "slug": "SixChix",
+    "slugShort": "6Chix",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Slylock Fox - Comics For Kids",
+    "slug": "SlylockFox-ComicsForKids",
+    "slugShort": "Slylock",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Take it from the Tinkersons",
+    "slug": "TakeitfromtheTinkersons",
+    "slugShort": "Tinkersons",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "The Middletons",
+    "slug": "TheMiddletons",
+    "slugShort": "Middletons",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Tiger",
+    "slug": "Tiger",
+    "slugShort": "Tiger",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Todd The Dinosaur",
+    "slug": "ToddTheDinosaur",
+    "slugShort": "Todd",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Zippy the Pinhead",
+    "slug": "ZippythePinhead",
+    "slugShort": "Zippy_the_Pinhead",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Zits",
+    "slug": "Zits",
+    "slugShort": "Zits",
+    "size": 760,
+    "sundayOnly": null,
+    "partner": "king",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Calvin and Hobbes",
+    "slug": "ch",
+    "slugShort": "ch",
+    "size": null,
+    "sundayOnly": null,
+    "partner": "am",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Garfield",
+    "slug": "ga",
+    "slugShort": "ga",
+    "size": null,
+    "sundayOnly": null,
+    "partner": "am",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "The Argyle Sweater",
+    "slug": "tas",
+    "slugShort": "tas",
+    "size": null,
+    "sundayOnly": null,
+    "partner": "am",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Cathy",
+    "slug": "ca",
+    "slugShort": "ca",
+    "size": null,
+    "sundayOnly": null,
+    "partner": "am",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Doonesbury",
+    "slug": "db",
+    "slugShort": "db",
+    "size": null,
+    "sundayOnly": null,
+    "partner": "am",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "For Better or For Worse",
+    "slug": "fb",
+    "slugShort": "fb",
+    "size": null,
+    "sundayOnly": null,
+    "partner": "am",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Foxtrot",
+    "slug": "ft",
+    "slugShort": "ft",
+    "size": null,
+    "sundayOnly": true,
+    "partner": "am",
+    "visible": true
+  },
+  {
+    "id": "",
+    "title": "Ziggy",
+    "slug": "zi",
+    "slugShort": "zi",
+    "size": null,
+    "sundayOnly": null,
+    "partner": "am",
+    "visible": true
+  }
+ ]

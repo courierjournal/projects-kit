@@ -1,0 +1,18 @@
+{
+  "name": "interactives-kit-vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.1.0"
+  },
+  "devDependencies": {
+    "vuepress-plugin-dehydrate": "^1.0.3"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC"
+}
